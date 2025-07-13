@@ -1,1 +1,1 @@
-# Twitter-UI-Clone
+# Twitter-clone
